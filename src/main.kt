@@ -24,7 +24,7 @@ fun main(args: Array<String>){
     println(forrestGump.pickChocolate())
     println(forrestGump.pickChocolate())
     println(forrestGump.pickChocolate())
-    println(forrestGump.pickChocolate())
+    println(forrestGump.pickChocolate())//FORREST TOMA LOS CHOCOLATES, INDICANDO SU MARCA Y CALORIAS
     println(forrestGump.pickChocolate())
     println(forrestGump.pickChocolate())
     println(forrestGump.pickChocolate())
